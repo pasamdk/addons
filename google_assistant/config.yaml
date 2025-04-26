@@ -32,4 +32,4 @@ schema:
     enable: bool
     volume: int(0,100)
 stage: deprecated
-webui: http://[HOST]:[PORT:9324]
+webui: http://192.168.78.150:9324
